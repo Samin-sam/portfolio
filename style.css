@@ -82,6 +82,10 @@ section
     height: 70%;
     background-color: white;
 }
+.exp-area
+{
+    padding-left: 65px;
+}
 .experience-area
 {
     background-image: url(images/exp-bg.png);
