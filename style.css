@@ -19,10 +19,6 @@ p
 {
     color: blueviolet;
 }
-.vision-highlight
-{
-    color: orangered;
-}
 .half-width
 {
     width: 40%;
@@ -52,4 +48,26 @@ section
     border-radius: 10px;
     color: white;
     font-weight: 700;
+}
+.vision-st
+{
+    padding-right: 20px;
+}
+.mission-st
+{
+    padding-right: 20px;
+}
+.vision-highlight
+{
+    color: orangered;
+}
+.mission-highlight
+{
+    color: royalblue;
+}
+.vision-area
+{
+    background-image: url(images/vision-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
